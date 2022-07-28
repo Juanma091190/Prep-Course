@@ -1,0 +1,26 @@
+ * Variables
+
+Las variables son espacios de la memoria que se reservan para guardar algún valor. Ese valor se puede modificar a medida que se ejecuta el código
+y cada vez que esto ocurre se sobreescribe en ese espacio de memoria, disponible para ser utilizado después. 
+
+ * Strings
+
+Las strings son un tipo de expresiones (una porción de código que se evalúa como un valor) que puede contener caracteres alfanuméricos. Por ejemplo
+una palabra como "Hola". 
+
+ * Funciones (argumentos, `return`)
+
+Las funciones son una porción de código que ultiliza ciertos valores (los argumentos), y realiza una acción para devolver otro valor. Si dentro
+del código que realiza la acción se incluye el comando 'return', entonces la función deja de ejecutarse  y devuelve el valor al que ha llegado 
+hasta ese momento.
+
+ * Declaraciones `if`
+
+Las declaraciones 'if' son porciones de código que evaluan si se cumple alguna condición (que puede ser verdadera o falsa) y ejecutan porciones 
+distintas de código según cuál sea el resultado de la evaluación de la condición (una porción cuando la condición es verdadera, y otra diferente 
+cuando la porción es falsa). 
+
+ * Valores booleanos (`true`, `false`)
+
+Los valores booleanos son valores que solo tienen dos estados posibles: verdadero o falso. Se pueden representar como 0 ó 1, y sólo ocupan 1 bit 
+de memoria. 
